@@ -20,10 +20,10 @@ Website: [PropPilot.bet](https://proppilot.bet)
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/will-hart-7b8621290/)| [Email](willbrennanhart@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/will-hart-7b8621290/) | [Email](willbrennanhart@gmail.com)
 
 
 ---
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/willh3518/svg)](https://tokscale.ai/u/willh3518)
+[![Tokscale Stats](https://tokscale.ai/api/embed/willh3518/svg?compact=1)](https://tokscale.ai/u/willh3518)
 ```
