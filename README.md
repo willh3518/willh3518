@@ -19,7 +19,7 @@ Interested in sports analytics, predictive modeling, software development, and s
 
 Building software and AI-driven tools focused on nutrition and macro tracking.
 
-Website: [MacroMate](https://YOUR-MACROMATE-LINK.com)
+Website: [MacroMate](https://macromatefastfoodhacks.com)
 
 ---
 
