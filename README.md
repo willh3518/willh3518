@@ -1,4 +1,3 @@
-```md id="gh-readme-clean"
 # Will Hart
 
 Computer Information Systems student at James Madison University with a concentration in Entrepreneurship.
