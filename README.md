@@ -1,18 +1,6 @@
 # Will Hart
 
-Computer Information Systems student at James Madison University with a concentration in Entrepreneurship.
-
-Interested in sports analytics, predictive modeling, software development, and startup building.
-
-## About Me
-
-- CIS major at James Madison University
-- Entrepreneurship concentration
-- Focused on sports analytics, machine learning, and product development
-- Co-Founder of MacroMate
-- Building predictive sports modeling systems with PropPilot
-
-## Projects
+I am a CIS student at James Madison University with a minor in Entrepreneurship, I am very interested in data analytics, predictive modeling, software development, and startup building.
 
 ### MacroMate
 
@@ -32,11 +20,8 @@ Website: [PropPilot.bet](https://proppilot.bet)
 
 ---
 
-## Connect With Me
+📫 [LinkedIn](https://www.linkedin.com/in/will-hart-7b8621290/)| [Email](willbrennanhart@gmail.com)
 
-LinkedIn: [Will Hart](https://www.linkedin.com/in/will-hart-7b8621290/)
-
-Email: your.email@example.com
 
 ---
 
